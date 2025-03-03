@@ -1,1 +1,3 @@
-# Current_Emerging_Trends
+# Treasure Hunt Game Notebook
+This game challenges an AI agent to navigate a maze on a grid to a treasure. The agent is penalized for errors it makes. We were given code on the backend game experience, map drawer, and the base for the q learning model. I added code to define what happened each epoch following the given pseudocode.<br />
+To put it simply a computer scientist studies computers at all levels. They use this knowledge design and develop applications to solve problems. As a computer scientist, I generally try to find the easiest solution even if it means the code will not be as elegant. I would rather go with a solution I know will work instead of trying to be overly creative trying to make my code look cool. My ethical responsibilities to the end user is to prevent harm and provide experience to their expectation. My responsibilities to the organization is to make them money and control liability.
